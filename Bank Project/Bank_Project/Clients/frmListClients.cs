@@ -82,7 +82,11 @@ namespace Bank_Project
         private void deleteClientToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+           if (MessageBox.Show("Are You Sure You want to delete this Client ","Confirm",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.No)
+            return;
 
+
+        
             int ClientID = (int)dgvClients.CurrentRow.Cells[0].Value;
 
 

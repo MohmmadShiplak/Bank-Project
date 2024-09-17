@@ -43,6 +43,35 @@ namespace Bank_Project
             _Mode = enMode.UpdateNew;
         }
 
+
+        private void ResetDefualtValues()
+        {
+
+            if(_Mode == enMode.AddNew)
+            {
+
+              _Client=new clsClients();
+
+
+                return;
+
+            }
+            else
+            {
+
+            }
+
+
+
+
+
+
+        }
+
+
+
+
+
         private void LoadData()
         {
          
@@ -73,7 +102,7 @@ namespace Bank_Project
 
             }
 
-            lblClientID.Text = _ClientID.ToString();
+            lblClientID.Text = _Client.ClientID.ToString();
             txtClientName.Text = _Client.ClientName;
             txtAccountNumber.Text = _Client.AccountNumber;
             txtAccountBalance.Text = _Client.AccountBalance.ToString();
@@ -90,19 +119,6 @@ namespace Bank_Project
 
 
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
         private void txtAccountBalance_TextChanged(object sender, EventArgs e)
         {
 
@@ -133,13 +149,16 @@ namespace Bank_Project
 
                 lblClientID.Text = _Client.ClientID.ToString();
 
+                _Mode = enMode.UpdateNew;
 
-                MessageBox.Show("Data Saved ");
+
+                MessageBox.Show("Data Saved Sucessfully :-) ","Sucess",MessageBoxButtons.OK,MessageBoxIcon.Information);
+
 
             }
             else
             {
-                MessageBox.Show("Data is not Saved ");
+                MessageBox.Show("Data Failed to Save ","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
 
 
@@ -150,9 +169,13 @@ namespace Bank_Project
         private void frmAddNewClients_Load(object sender, EventArgs e)
         {
 
-           
+            ResetDefualtValues();
 
-         //   LoadData();
+
+            if(_Mode==enMode.UpdateNew)
+             LoadData();
+
+
         }
 
         private void llsetImage_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

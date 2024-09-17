@@ -17,7 +17,7 @@ namespace Bank_Project
             Application.SetCompatibleTextRenderingDefault(false);
             // Application.Run(new frmMain());
             // Application.Run(new frmTest2());
-            Application.Run(new frmListCurrency());
+            Application.Run(new frmMain());
 
 
 

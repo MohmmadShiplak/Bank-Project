@@ -24,9 +24,9 @@ namespace Bank_Project
 
             clsUsers User = clsUsers.Find(txtUserName.Text, txtPassword.Text);
 
-           txtPassword.Text = clsGlobal.DbConfig.encodePassword(txtPassword.Text);
+         //  txtPassword.Text = clsGlobal.DbConfig.encodePassword(txtPassword.Text);
 
-         //   User.Password = clsGlobal.DbConfig.encodePassword(txtPassword.Text) + txtPassword.Text;
+         ////   User.Password = clsGlobal.DbConfig.encodePassword(txtPassword.Text) + txtPassword.Text;
 
 
             if(User!=null)
@@ -35,9 +35,9 @@ namespace Bank_Project
                 MessageBox.Show("Login Sucessfully ", "Sucess"
                    , MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                
 
 
+                this.Hide();
                 frmMain frm1 = new frmMain();
                 frm1.ShowDialog();
 

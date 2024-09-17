@@ -58,7 +58,7 @@ namespace Bank_Project
                 dgvGetAllUsers.Columns[4].Width = 120;
 
                 dgvGetAllUsers.Columns[5].HeaderText = "Email";
-                dgvGetAllUsers.Columns[5].Width = 110;
+                dgvGetAllUsers.Columns[5].Width = 140;
 
 
                 dgvGetAllUsers.Columns[6].HeaderText = "Password";
@@ -93,6 +93,12 @@ namespace Bank_Project
 
         private void deleteClientsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+
+            if (MessageBox.Show("Are You Sure you want to delete this User", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No)
+                return;
+
+
+
 
             int UserID = (int)dgvGetAllUsers.CurrentRow.Cells[0].Value;
 

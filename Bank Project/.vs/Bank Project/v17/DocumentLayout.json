@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmaddnewclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmaddnewclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsClientsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmaddnewclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmaddnewclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBE4C76-014B-4E4B-A3FD-C624D1FE51CC}|Bank_Business\\Bank_Business.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsClients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBE4C76-014B-4E4B-A3FD-C624D1FE51CC}|Bank_Business\\Bank_Business.csproj|solutionrelative:Bank_Business\\clsClients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsUsersData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|c:\\users\\user\\desktop\\bank project\\bank project\\bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\currencies\\frmaddupdatecurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +67,12 @@
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\currencies\\frmaddupdatecurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\frmaddupdateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\users\\frmaddupdateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\frmaddupdateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\users\\frmaddupdateusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,32 +87,12 @@
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmaddnewclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmaddnewclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmaddnewclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmaddnewclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\frmusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\users\\frmusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\controls\\ctrlusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\users\\controls\\ctrlusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\users\\frmusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\transactions\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\transactions\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\controls\\ctrlclientsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -192,40 +204,28 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_Business\\clsCurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FBE4C76-014B-4E4B-A3FD-C624D1FE51CC}|Bank_Business\\Bank_Business.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBE4C76-014B-4E4B-A3FD-C624D1FE51CC}|Bank_Business\\Bank_Business.csproj|solutionrelative:Bank_Business\\clsCurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsCurrencyData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_DataAccess\\clsCurrencyData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsCurrencyData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsCurrencyData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_Business\\clsCountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FBE4C76-014B-4E4B-A3FD-C624D1FE51CC}|Bank_Business\\Bank_Business.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBE4C76-014B-4E4B-A3FD-C624D1FE51CC}|Bank_Business\\Bank_Business.csproj|solutionrelative:Bank_Business\\clsCountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsCountryData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_DataAccess\\clsCountryData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsCountryData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsCountryData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsDataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_DataAccess\\clsDataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsDataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsDataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_DataAccess\\clsClientsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsClients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_Business\\clsClients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_DataAccess\\clsUsersData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank_Business\\clsUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FBE4C76-014B-4E4B-A3FD-C624D1FE51CC}|Bank_Business\\Bank_Business.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBE4C76-014B-4E4B-A3FD-C624D1FE51CC}|Bank_Business\\Bank_Business.csproj|solutionrelative:Bank_Business\\clsUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -235,7 +235,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -247,31 +247,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmAddUpdateCurrency.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
-              "RelativeToolTip": "Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAArwFEAAAAdAAAA",
+              "DocumentIndex": 4,
+              "Title": "frmAddNewClients.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmAddNewClients.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs",
+              "RelativeToolTip": "Bank_Project\\Clients\\frmAddNewClients.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T00:12:08.72Z"
+              "WhenOpened": "2024-03-31T00:17:59.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "clsCurrency.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCurrency.cs",
-              "RelativeDocumentMoniker": "Bank_Business\\clsCurrency.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCurrency.cs",
-              "RelativeToolTip": "Bank_Business\\clsCurrency.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAASwDEAAAAtAAAA",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Bank_Project\\Login\\frmLogin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T23:26:39.008Z"
+              "WhenOpened": "2024-05-02T11:31:36.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 13,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\clsGlobal.cs",
+              "RelativeToolTip": "Bank_Project\\clsGlobal.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:27:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\frmMain.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.cs [Design]",
+              "RelativeToolTip": "Bank_Project\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:50:38.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "clsCurrencyData.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsCurrencyData.cs",
               "RelativeDocumentMoniker": "Bank_DataAccess\\clsCurrencyData.cs",
@@ -284,18 +311,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Program.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Program.cs",
-              "RelativeToolTip": "Bank_Project\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAtwBAAAAAMAAAA",
+              "Title": "frmListClients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmListClients.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs [Design]",
+              "RelativeToolTip": "Bank_Project\\Clients\\frmListClients.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T00:08:08.838Z"
+              "WhenOpened": "2024-04-14T23:23:35.924Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 0,
+              "Title": "frmListClients.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmListClients.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
+              "RelativeToolTip": "Bank_Project\\Clients\\frmListClients.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:28:29.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs [Design]",
+              "RelativeToolTip": "Bank_Project\\Users\\frmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:21:45.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs",
+              "RelativeToolTip": "Bank_Project\\Users\\frmListUsers.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADgv18AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:25:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Bank_Project\\Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:30:10.973Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
               "Title": "clsCountry.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCountry.cs",
               "RelativeDocumentMoniker": "Bank_Business\\clsCountry.cs",
@@ -307,7 +384,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "frmAddNewClients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmAddNewClients.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs [Design]",
+              "RelativeToolTip": "Bank_Project\\Clients\\frmAddNewClients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:44:31.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsClients.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsClients.cs",
+              "RelativeDocumentMoniker": "Bank_Business\\clsClients.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsClients.cs",
+              "RelativeToolTip": "Bank_Business\\clsClients.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwE4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:21:41.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsClientsData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs",
+              "RelativeDocumentMoniker": "Bank_DataAccess\\clsClientsData.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs",
+              "RelativeToolTip": "Bank_DataAccess\\clsClientsData.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAYwGQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:22:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Program.cs",
+              "RelativeToolTip": "Bank_Project\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T00:08:08.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsUsersData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs",
+              "RelativeDocumentMoniker": "Bank_DataAccess\\clsUsersData.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs",
+              "RelativeToolTip": "Bank_DataAccess\\clsUsersData.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAqwEwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:29:19.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "clsCurrency.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCurrency.cs",
+              "RelativeDocumentMoniker": "Bank_Business\\clsCurrency.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsCurrency.cs",
+              "RelativeToolTip": "Bank_Business\\clsCurrency.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAASwDEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:26:39.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAddUpdateCurrency.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
+              "RelativeDocumentMoniker": "Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
+              "RelativeToolTip": "Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAArwFEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:12:08.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "frmAddUpdateCurrency.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Currencies\\frmAddUpdateCurrency.cs",
@@ -318,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "frmAddUpdateUsers.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmAddUpdateUsers.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\frmAddUpdateUsers.cs",
@@ -330,20 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Login\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs",
-              "RelativeToolTip": "Bank_Project\\Login\\frmLogin.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwBoAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:31:36.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "clsCountryData.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsCountryData.cs",
               "RelativeDocumentMoniker": "Bank_DataAccess\\clsCountryData.cs",
@@ -355,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "clsDataAccessSettings.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsDataAccessSettings.cs",
               "RelativeDocumentMoniker": "Bank_DataAccess\\clsDataAccessSettings.cs",
@@ -367,31 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "clsClientsData.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs",
-              "RelativeDocumentMoniker": "Bank_DataAccess\\clsClientsData.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs",
-              "RelativeToolTip": "Bank_DataAccess\\clsClientsData.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAtwF8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T23:22:55.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "clsGlobal.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\clsGlobal.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\clsGlobal.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\clsGlobal.cs",
-              "RelativeToolTip": "Bank_Project\\clsGlobal.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAMwBkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T02:27:41.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "frmAddUpdateUsers.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmAddUpdateUsers.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\frmAddUpdateUsers.cs",
@@ -402,53 +530,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Login\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\Login\\frmLogin.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\Login\\frmLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:30:10.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\frmMain.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmMain.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:50:38.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "clsClients.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsClients.cs",
-              "RelativeDocumentMoniker": "Bank_Business\\clsClients.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsClients.cs",
-              "RelativeToolTip": "Bank_Business\\clsClients.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T23:21:41.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "frmMain.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.cs",
               "RelativeDocumentMoniker": "Bank_Project\\frmMain.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.cs",
               "RelativeToolTip": "Bank_Project\\frmMain.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAHAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T02:28:21.776Z"
+              "WhenOpened": "2024-04-17T02:28:21.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "frmTransactions.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmTransactions.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Transactions\\frmTransactions.cs",
@@ -459,19 +554,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "frmMain.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.Designer.cs",
               "RelativeDocumentMoniker": "Bank_Project\\frmMain.Designer.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.Designer.cs",
               "RelativeToolTip": "Bank_Project\\frmMain.Designer.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAtwGwAAABWAAAA",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAtwGwAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:18:45.782Z"
+              "WhenOpened": "2024-04-25T00:18:45.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "frmAddUpdateCurrency.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmAddUpdateCurrency.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmAddUpdateCurrency.cs",
@@ -482,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "frmListCurrency.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmListCurrency.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmListCurrency.cs",
@@ -493,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "frmDashbord.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmDashbord.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmDashbord.cs",
@@ -504,18 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmAddNewClients.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmAddNewClients.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T22:44:31.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "frmDashbord.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmDashbord.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmDashbord.cs",
@@ -526,19 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "clsUsersData.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs",
-              "RelativeDocumentMoniker": "Bank_DataAccess\\clsUsersData.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs",
-              "RelativeToolTip": "Bank_DataAccess\\clsUsersData.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAYwEwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T23:29:19.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "frmListCurrency.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmListCurrency.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmListCurrency.cs",
@@ -550,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "frmAddUpdateCurrency.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmAddUpdateCurrency.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmAddUpdateCurrency.cs",
@@ -561,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "MyCustomComboBox.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\MyCustomComboBox.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\MyCustomComboBox.cs",
@@ -572,19 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmAddNewClients.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmAddNewClients.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs",
-              "RelativeToolTip": "Bank_Project\\Clients\\frmAddNewClients.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAYwC8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T00:17:59.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "MyCustomComboBox.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\MyCustomComboBox.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\MyCustomComboBox.cs",
@@ -608,18 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmListUsers.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Users\\frmListUsers.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T02:21:45.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "frmChangePassword.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmChangePassword.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmChangePassword.cs",
@@ -630,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "frmUsersInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmUsersInfo.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\frmUsersInfo.cs",
@@ -641,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmLogin.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmLogin.cs",
@@ -652,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmLogin.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmLogin.cs",
@@ -664,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "frmChangePassword.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmChangePassword.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmChangePassword.cs",
@@ -676,19 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmListUsers.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Users\\frmListUsers.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs",
-              "RelativeToolTip": "Bank_Project\\Users\\frmListUsers.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T02:25:27.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "ctrlUsersInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\Controls\\ctrlUsersInfo.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\Controls\\ctrlUsersInfo.cs",
@@ -699,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ctrlUsersInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\Controls\\ctrlUsersInfo.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\Controls\\ctrlUsersInfo.cs",
@@ -711,19 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "frmListClients.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmListClients.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
-              "RelativeToolTip": "Bank_Project\\Clients\\frmListClients.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAADwvxMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T23:28:29.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\App.config",
               "RelativeDocumentMoniker": "Bank_Project\\App.config",
@@ -735,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "frmUsersInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmUsersInfo.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\frmUsersInfo.cs",
@@ -747,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ctrlClientsInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\Controls\\ctrlClientsInfo.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Clients\\Controls\\ctrlClientsInfo.cs",
@@ -758,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "frmTransactions.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmTransactions.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Transactions\\frmTransactions.cs",
@@ -770,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "ctrlClientsInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\Controls\\ctrlClientsInfo.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Clients\\Controls\\ctrlClientsInfo.cs",
@@ -782,18 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "frmListClients.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
-              "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmListClients.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T23:23:35.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "frmClientsInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmClientsInfo.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmClientsInfo.cs",
@@ -804,7 +819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "frmClientsInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmClientsInfo.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmClientsInfo.cs",
@@ -816,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "frmDeposit.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmDeposit.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Transactions\\frmDeposit.cs",
@@ -828,7 +843,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "frmDeposit.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmDeposit.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Transactions\\frmDeposit.cs",
@@ -839,7 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "frmWithdrew.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmWithdrew.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Transactions\\frmWithdrew.cs",
@@ -850,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "frmTransfer.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmTransfer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmTransfer.cs",
@@ -861,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "frmUsersInfo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmUsersInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmUsersInfo.cs",
@@ -872,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "frmAddUpdateUsers.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmAddUpdateUsers.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmAddUpdateUsers.cs",
@@ -883,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "ctrlUsersInfo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\Controls\\ctrlUsersInfo.Designer.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\Controls\\ctrlUsersInfo.Designer.cs",
@@ -895,7 +910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "frmUsersInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmUsersInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmUsersInfo.cs",
@@ -907,7 +922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "frmWithdrew.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmWithdrew.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Transactions\\frmWithdrew.cs",
@@ -919,7 +934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "frmAddUpdateUsers.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmAddUpdateUsers.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmAddUpdateUsers.cs",
@@ -931,7 +946,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "frmTransfer.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmTransfer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmTransfer.cs",
@@ -943,7 +958,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "frmTransfer.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Bank Project\\Bank_Project\\frmTransfer.Designer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Bank Project\\Bank_Project\\frmTransfer.Designer.cs",

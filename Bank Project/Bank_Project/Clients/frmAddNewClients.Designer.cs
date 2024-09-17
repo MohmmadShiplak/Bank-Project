@@ -74,14 +74,14 @@
             // 
             // txtPhone
             // 
-            this.txtPhone.Location = new System.Drawing.Point(175, 223);
+            this.txtPhone.Location = new System.Drawing.Point(175, 221);
             this.txtPhone.Name = "txtPhone";
             this.txtPhone.Size = new System.Drawing.Size(128, 22);
             this.txtPhone.TabIndex = 3;
             // 
             // txtPinCode
             // 
-            this.txtPinCode.Location = new System.Drawing.Point(175, 280);
+            this.txtPinCode.Location = new System.Drawing.Point(175, 265);
             this.txtPinCode.Name = "txtPinCode";
             this.txtPinCode.Size = new System.Drawing.Size(128, 22);
             this.txtPinCode.TabIndex = 4;
@@ -140,7 +140,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(76, 223);
+            this.label5.Location = new System.Drawing.Point(90, 219);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(62, 22);
             this.label5.TabIndex = 10;
@@ -150,7 +150,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(59, 278);
+            this.label6.Location = new System.Drawing.Point(59, 265);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(79, 22);
             this.label6.TabIndex = 11;
@@ -160,7 +160,7 @@
             // 
             this.btnSave.BackColor = System.Drawing.Color.White;
             this.btnSave.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSave.Location = new System.Drawing.Point(193, 419);
+            this.btnSave.Location = new System.Drawing.Point(195, 386);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(75, 30);
             this.btnSave.TabIndex = 12;
@@ -173,17 +173,17 @@
             this.pbClientImage.BackColor = System.Drawing.Color.White;
             this.pbClientImage.Location = new System.Drawing.Point(384, 71);
             this.pbClientImage.Name = "pbClientImage";
-            this.pbClientImage.Size = new System.Drawing.Size(131, 107);
+            this.pbClientImage.Size = new System.Drawing.Size(131, 120);
             this.pbClientImage.TabIndex = 13;
             this.pbClientImage.TabStop = false;
             // 
             // llsetImage
             // 
             this.llsetImage.AutoSize = true;
-            this.llsetImage.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.llsetImage.Location = new System.Drawing.Point(407, 220);
+            this.llsetImage.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.llsetImage.Location = new System.Drawing.Point(392, 221);
             this.llsetImage.Name = "llsetImage";
-            this.llsetImage.Size = new System.Drawing.Size(97, 25);
+            this.llsetImage.Size = new System.Drawing.Size(106, 25);
             this.llsetImage.TabIndex = 14;
             this.llsetImage.TabStop = true;
             this.llsetImage.Text = "set Image";
@@ -192,17 +192,17 @@
             // linkLabel2
             // 
             this.linkLabel2.AutoSize = true;
-            this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel2.Location = new System.Drawing.Point(407, 278);
+            this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel2.Location = new System.Drawing.Point(403, 274);
             this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(84, 25);
+            this.linkLabel2.Size = new System.Drawing.Size(82, 22);
             this.linkLabel2.TabIndex = 15;
             this.linkLabel2.TabStop = true;
             this.linkLabel2.Text = "Remove";
             // 
             // txtImagePath
             // 
-            this.txtImagePath.Location = new System.Drawing.Point(175, 328);
+            this.txtImagePath.Location = new System.Drawing.Point(175, 315);
             this.txtImagePath.Name = "txtImagePath";
             this.txtImagePath.Size = new System.Drawing.Size(128, 22);
             this.txtImagePath.TabIndex = 16;
@@ -211,7 +211,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(53, 326);
+            this.label7.Location = new System.Drawing.Point(57, 315);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(95, 22);
             this.label7.TabIndex = 17;

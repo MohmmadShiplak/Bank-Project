@@ -98,19 +98,13 @@ namespace Bank_DataAccess
 
             SqlConnection Connection = new SqlConnection(clsDataAccessSettings.Connectionstring);
 
+            Connection.Open();  
 
 
 
+            SqlCommand Command = new SqlCommand("SP_AddNewClients", Connection);
 
-            string Query = @"INSERT INTO Clients(ClientName,AccountNumber,AccountBalance,Phone,PinCode,ImagePath)
-                             VALUES(@ClientName,@AccountNumber,@AccountBalance,@Phone,@PinCode,@ImagePath);
-                               SELECT SCOPE_IDENTITY();";
-
-
-            SqlCommand Command = new SqlCommand(Query, Connection);
-
-
-
+            Command.CommandType = CommandType.StoredProcedure;
 
             Command.Parameters.AddWithValue("@ClientName", ClientName);
             Command.Parameters.AddWithValue("@AccountNumber", AccountNumber);
@@ -129,11 +123,16 @@ namespace Bank_DataAccess
             //else
             //    Command.Parameters.AddWithValue(@"AccountBalance", System.DBNull.Value);
 
+            SqlParameter OutPutClientID = new SqlParameter("@ClientID", SqlDbType.Int)//Type of output parameter 
+            {
 
+                Direction = ParameterDirection.Output
+            };
+            Command.Parameters.Add(OutPutClientID);
+            Command.ExecuteScalar();
+            ClientID = (int)OutPutClientID.Value;
 
-
-
-
+        
             try
             {
 
@@ -173,17 +172,10 @@ namespace Bank_DataAccess
 
 
 
-            string Query = @"Update Clients
-                                 set ClientName=@ClientName,
-                                    AccountNumber=@AccountNumber,
-                                     AccountBalance=@AccountBalance,
-                                     Phone=@Phone,
-                                     PinCode=@PinCode,
-                                     ImagePath=@ImagePath
-                                   where ClientID=@ClientID
- ";
-            SqlCommand Command = new SqlCommand(Query, Connection);
 
+            SqlCommand Command = new SqlCommand("SP_UpdateClients", Connection);
+
+            Command.CommandType = CommandType.StoredProcedure;
 
             Command.Parameters.AddWithValue("@ClientID", ClientID);
             Command.Parameters.AddWithValue("@ClientName", ClientName);
