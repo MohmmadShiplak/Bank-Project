@@ -1,0 +1,68 @@
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_Project.exe.config
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_Project.exe
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_Project.pdb
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_Business.dll
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_DataAccess.dll
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_Business.pdb
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_DataAccess.pdb
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Pro.D4D16CB4.Up2Date
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.exe
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.pdb
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmAddNewClients.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmLogin.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmTransfer.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmAddUpdateUsers.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmListUsers.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmDeposit.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmWithdrew.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.ctrlUsersInfo.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmUsersInfo.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmListClients.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.ctrlClientsInfo.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmClientsInfo.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.Transactions.frmTransactions.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmMain.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.Properties.Resources.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmChangePassword.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmDashbord.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmAddUpdateCurrency.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmListCurrency.resources
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_Business.dll.config
+C:\Users\user\source\repos\Bank Project\Bank_Project\bin\Debug\Bank_DataAccess.dll.config
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_Project.exe.config
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_Project.exe
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_Project.pdb
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_Business.dll
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_DataAccess.dll
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_Business.pdb
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_Business.dll.config
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_DataAccess.pdb
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\bin\Debug\Bank_DataAccess.dll.config
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.ctrlClientsInfo.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmClientsInfo.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmAddUpdateCurrency.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmListCurrency.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmChangePassword.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmDashbord.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmMain.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.Properties.Resources.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.Transactions.frmTransactions.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.ctrlUsersInfo.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmAddNewClients.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmAddUpdateUsers.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmDeposit.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmListClients.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmListUsers.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmLogin.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmTransfer.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmUsersInfo.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.frmWithdrew.resources
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Pro.D4D16CB4.Up2Date
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.exe
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_Project\obj\Debug\Bank_Project.pdb
