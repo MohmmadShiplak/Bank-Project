@@ -12,83 +12,86 @@ namespace Bank_DataAccess
     public class clsClientsData
     {
         public static bool GetClientsInfoByID(int ClientID, ref string ClientName, ref string AccountNumber
-               , ref decimal AccountBalance, ref string Phone, ref string Pincode,ref string ImagePath)
+               , ref decimal AccountBalance, ref string Phone, ref string Pincode, ref string ImagePath)
         {
 
             bool IsFound = false;
-
-
-            SqlConnection Connection = new SqlConnection(clsDataAccessSettings.Connectionstring);
-
-
-
-
-
-            string Query = @"SELECT * from Clients where ClientID=@ClientID";
-
-
-            SqlCommand Commnad = new SqlCommand(Query, Connection);
-
-            Commnad.Parameters.AddWithValue("@ClientID", ClientID);
 
 
 
             try
             {
 
+            using (SqlConnection Connection = new SqlConnection(clsDataAccessSettings.Connectionstring))
+            {
+
                 Connection.Open();
 
-                SqlDataReader Reader = Commnad.ExecuteReader();
-
-
-
-                if (Reader.Read())
-                {
-
-
-                    IsFound = true;
-
-
-
-                    ClientName = (string)Reader["ClientName"];
-
-                    AccountNumber = (string)Reader["AccountNumber"];
-
-
-                    AccountBalance = (decimal)Reader["AccountBalance"];
-
-
-                    Phone = (string)Reader["Phone"];
-
-                    Pincode = (string)Reader["PinCode"];
-
-
-                    if (Reader["ImagePath"] != DBNull.Value)
+                    using (SqlCommand Commnad = new SqlCommand("SP_GetClientsInfobyClientID", Connection))
                     {
 
-                        ImagePath = (string)Reader["ImagePath"];
-                    }
-                    else
-                    {
-                        ImagePath = "";
+                        Commnad.CommandType = CommandType.StoredProcedure;
+
+                        Commnad.Parameters.AddWithValue("@ClientID", ClientID);
+
+                        using (SqlDataReader Reader = Commnad.ExecuteReader())
+                        {
+
+
+                            IsFound = true;
+
+
+
+                            ClientName = (string)Reader["ClientName"];
+
+                            AccountNumber = (string)Reader["AccountNumber"];
+
+
+                            AccountBalance = (decimal)Reader["AccountBalance"];
+
+
+                            Phone = (string)Reader["Phone"];
+
+                            Pincode = (string)Reader["PinCode"];
+
+
+                            if (Reader["ImagePath"] != DBNull.Value)
+                            {
+
+                                ImagePath = (string)Reader["ImagePath"];
+                            }
+                            else
+                            {
+                                ImagePath = "";
+                            }
+
+                        }
                     }
 
                 }
-                else
-                {
-                    IsFound = false;
-                }
-                Reader.Close();
+
             }
-
-
-            catch (Exception ex)
+            catch(Exception ex)
             {
-                Console.WriteLine("Error :" + ex.Message);
+                Console.WriteLine("error "+ex.ToString());   
             }
-
             return IsFound;
         }
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
         static public int AddNewClients(string ClientName, string  AccountNumber, decimal ? AccountBalance,
              string Phone, string PinCode,string ImagePath)
         {
@@ -96,68 +99,48 @@ namespace Bank_DataAccess
             int  ClientID  = -1;
 
 
-            SqlConnection Connection = new SqlConnection(clsDataAccessSettings.Connectionstring);
-
-            Connection.Open();  
-
-
-
-            SqlCommand Command = new SqlCommand("SP_AddNewClients", Connection);
-
-            Command.CommandType = CommandType.StoredProcedure;
-
-            Command.Parameters.AddWithValue("@ClientName", ClientName);
-            Command.Parameters.AddWithValue("@AccountNumber", AccountNumber);
-            Command.Parameters.AddWithValue("@AccountBalance", AccountBalance);
-            Command.Parameters.AddWithValue("@Phone", Phone);
-            Command.Parameters.AddWithValue("@PinCode", PinCode);
-
-
-            if (ImagePath != "" && ImagePath != null)
-                Command.Parameters.AddWithValue("@ImagePath", ImagePath);
-            else
-                Command.Parameters.AddWithValue("@ImagePath", DBNull.Value);
-
-            //if (AccountBalance != -1 && AccountBalance != null)
-            //    Command.Parameters.AddWithValue(@"AccountBalance", AccountBalance);
-            //else
-            //    Command.Parameters.AddWithValue(@"AccountBalance", System.DBNull.Value);
-
-            SqlParameter OutPutClientID = new SqlParameter("@ClientID", SqlDbType.Int)//Type of output parameter 
-            {
-
-                Direction = ParameterDirection.Output
-            };
-            Command.Parameters.Add(OutPutClientID);
-            Command.ExecuteScalar();
-            ClientID = (int)OutPutClientID.Value;
-
-        
             try
             {
 
-
-                Connection.Open();
-
-                object Result = Command.ExecuteScalar();
-
-                if (Result != null && int.TryParse(Result.ToString(), out int InsertedID))
+                using (SqlConnection Connection = new SqlConnection(clsDataAccessSettings.Connectionstring))
                 {
-                    ClientID = InsertedID;
+
+                    Connection.Open();
+
+                    using (SqlCommand Command = new SqlCommand("SP_AddNewClients", Connection))
+                    {
+
+                        Command.CommandType = CommandType.StoredProcedure;
+
+                        Command.Parameters.AddWithValue("@ClientName",(object) ClientName??DBNull.Value);
+                        Command.Parameters.AddWithValue("@AccountNumber",(object) AccountNumber??DBNull.Value);
+                        Command.Parameters.AddWithValue("@AccountBalance",(object) AccountBalance??DBNull.Value);
+                        Command.Parameters.AddWithValue("@Phone", (object)Phone ?? DBNull.Value);
+                        Command.Parameters.AddWithValue("@PinCode", (object)PinCode ?? DBNull.Value);
+
+
+                    
+
+                        SqlParameter OutPutClientID = new SqlParameter("@ClientID", SqlDbType.Int)//Type of output parameter 
+                        {
+
+                            Direction = ParameterDirection.Output
+                        };
+                        Command.Parameters.Add(OutPutClientID);
+                        Command.ExecuteScalar();
+                        ClientID = (int)OutPutClientID.Value;
+
+                    }
+
                 }
-
-
+                
 
             }
-            catch (Exception ex)
+            catch(Exception ex)
             {
-                Console.WriteLine("Error :" + ex.Message);
+                Console.WriteLine("Error "+ex.ToString());
             }
-            finally
-            {
-                Connection.Close();
-            }
-
+                 
             return ClientID;
         }
         static public bool UpdatClients(int ClientID, string ClientName, string AccountNumber, decimal AccountBalance,
@@ -167,46 +150,41 @@ namespace Bank_DataAccess
             int RowAffected = 0;
 
 
-            SqlConnection Connection = new SqlConnection(clsDataAccessSettings.Connectionstring);
-
-
-
-
-
-            SqlCommand Command = new SqlCommand("SP_UpdateClients", Connection);
-
-            Command.CommandType = CommandType.StoredProcedure;
-
-            Command.Parameters.AddWithValue("@ClientID", ClientID);
-            Command.Parameters.AddWithValue("@ClientName", ClientName);
-            Command.Parameters.AddWithValue("@AccountNumber", AccountNumber);
-            Command.Parameters.AddWithValue("@AccountBalance", AccountBalance);
-            Command.Parameters.AddWithValue("@Phone", Phone);
-            Command.Parameters.AddWithValue("@PinCode", PinCode);
-
-
-            if (ImagePath != "" && ImagePath != null)
-                Command.Parameters.AddWithValue("@ImagePath", ImagePath);
-            else
-                Command.Parameters.AddWithValue("@ImagePath", DBNull.Value);
-
-
-
-
             try
             {
 
-                Connection.Open();
-                RowAffected = Command.ExecuteNonQuery();
+
+
+                using (SqlConnection Connection = new SqlConnection(clsDataAccessSettings.Connectionstring))
+                {
+
+                    using (SqlCommand Command = new SqlCommand("SP_UpdateClients", Connection))
+                    {
+
+
+                        Command.CommandType = CommandType.StoredProcedure;
+
+                        Command.Parameters.AddWithValue("@ClientID", (object)ClientID ?? DBNull.Value   );
+                        Command.Parameters.AddWithValue("@ClientName", (object)ClientName ?? DBNull.Value);
+                        Command.Parameters.AddWithValue("@AccountNumber",(object)AccountNumber ?? DBNull.Value  );
+                        Command.Parameters.AddWithValue("@AccountBalance", (object)AccountBalance ?? DBNull.Value);
+                        Command.Parameters.AddWithValue("@Phone", (object)Phone ?? DBNull.Value);
+                        Command.Parameters.AddWithValue("@PinCode", (object)PinCode ?? DBNull.Value);
+
+                        RowAffected = Command.ExecuteNonQuery();
+
+
+                    }
+
+
+                }
+
+
 
             }
-            catch (Exception ex)
+            catch(Exception ex)
             {
-                Console.WriteLine("Error :" + ex.Message);
-            }
-            finally
-            {
-                Connection.Close();
+                Console.WriteLine("Error :"+ex.ToString());   
             }
 
             return (RowAffected > 0);
@@ -230,9 +208,9 @@ namespace Bank_DataAccess
                     Connection.Open();
 
 
-                    string Query = @"SELECT * from Clients where AccountNumber=@AccountNumber";
+                    
 
-                    using (SqlCommand Commnad = new SqlCommand(Query, Connection))
+                    using (SqlCommand Commnad = new SqlCommand("SP_GetClientsInfobyAccountNumber", Connection))
                     {
 
 
@@ -245,31 +223,14 @@ namespace Bank_DataAccess
                             if (Reader.Read())
                             {
 
-
                                 IsFound = true;
 
-                                ClientName = (string)Reader["ClientName"];
-
+                                ClientName = (Reader["ClientName"]!=DBNull.Value)? (string)Reader["ClientName"]:null;
                                 ClientID = (int)Reader["ClientID"];
-
-
                                 AccountBalance = (decimal)Reader["AccountBalance"];
-
-
-                                Phone = (string)Reader["Phone"];
-
-                                Pincode = (string)Reader["PinCode"];
-
-                                if (Reader["ImagePath"] != DBNull.Value)
-                                {
-                                    ImagePath = (string)Reader["ImagePath"];
-                                }
-                                else
-                                {
-                                    ImagePath = "";
-                                }
-
-
+                                Phone = (Reader["Phone"]!=DBNull.Value)? (string)Reader["Phone"]:null;
+                                Pincode = (Reader["PinCode"] != DBNull.Value) ? (string)Reader["PinCode"] : null;
+                                ImagePath = (Reader["PinCode"] != DBNull.Value) ? (string)Reader["PinCode"] : null;
 
                             }
 
@@ -303,21 +264,12 @@ namespace Bank_DataAccess
 
                 using (SqlConnection connection = new SqlConnection(clsDataAccessSettings.Connectionstring))
                 {
-
-
                     connection.Open();
 
-                    string Query=@"delete Clients 
-                                  where ClientID=@ClientID";
-                        
-                        
-                    using(SqlCommand Command=new SqlCommand(Query,connection))
+                    using(SqlCommand Command=new SqlCommand("SP_DeleteClients", connection))
                     {
 
-
                         Command.Parameters.AddWithValue("@ClientID", ClientID);
-
-
 
                         RowAffected = Command.ExecuteNonQuery();
 
@@ -337,22 +289,18 @@ namespace Bank_DataAccess
         public static DataTable GetAllClients()
         {
 
-
             DataTable dt = new DataTable();
-
 
             try
             {
-
-
                 using (SqlConnection Connection = new SqlConnection(clsDataAccessSettings.Connectionstring))
                 {
 
                     Connection.Open();
 
-                    string Query = "SELECT * from Clients ";
+                  
 
-                    using (SqlCommand Command = new SqlCommand(Query, Connection))
+                    using (SqlCommand Command = new SqlCommand("SP_GetAllClients", Connection))
                     {
 
                         using (SqlDataReader Reader = Command.ExecuteReader())

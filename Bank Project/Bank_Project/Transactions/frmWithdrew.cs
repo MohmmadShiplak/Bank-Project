@@ -33,12 +33,9 @@ namespace Bank_Project
                 if(_Client.Save())
                 {
 
-
-
-
-                    MessageBox.Show("Withdrew  " + _Client.AccountBalance);
+                    MessageBox.Show("Withdrew Created Sucessfully :-)  " + _Client.AccountBalance,"Sucess"
+                        ,MessageBoxButtons.OK,MessageBoxIcon.Information);
                       
-
                 }
 
             }
@@ -46,7 +43,7 @@ namespace Bank_Project
             {
 
 
-                MessageBox.Show("Withdrew  Failed  (:",
+                MessageBox.Show("Withdrew  Failed  ",
                     "Failed ", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
             }
