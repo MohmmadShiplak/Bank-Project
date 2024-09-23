@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|c:\\users\\user\\desktop\\bank project\\bank project\\bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,12 +47,8 @@
       "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsUsersData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|c:\\users\\user\\desktop\\bank project\\bank project\\bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -235,7 +235,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -247,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmAddNewClients.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmAddNewClients.cs",
@@ -255,12 +255,11 @@
               "RelativeToolTip": "Bank_Project\\Clients\\frmAddNewClients.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAAwHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T00:17:59.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T00:17:59.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Login\\frmLogin.cs",
@@ -268,8 +267,7 @@
               "RelativeToolTip": "Bank_Project\\Login\\frmLogin.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:31:36.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T11:31:36.688Z"
             },
             {
               "$type": "Document",
@@ -281,12 +279,11 @@
               "RelativeToolTip": "Bank_Project\\clsGlobal.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAD4vxkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T02:27:41.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T02:27:41.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.cs",
               "RelativeDocumentMoniker": "Bank_Project\\frmMain.cs",
@@ -310,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmListClients.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmListClients.cs",
@@ -322,32 +319,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmListClients.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmListClients.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmListClients.cs",
               "RelativeToolTip": "Bank_Project\\Clients\\frmListClients.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAqwFgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T23:28:29.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmListUsers.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\frmListUsers.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs [Design]",
               "RelativeToolTip": "Bank_Project\\Users\\frmListUsers.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T02:21:45.647Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-03T02:21:45.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmListUsers.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Users\\frmListUsers.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Users\\frmListUsers.cs",
@@ -355,8 +351,7 @@
               "RelativeToolTip": "Bank_Project\\Users\\frmListUsers.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAADgv18AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T02:25:27.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T02:25:27.115Z"
             },
             {
               "$type": "Document",
@@ -367,8 +362,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Login\\frmLogin.cs [Design]",
               "RelativeToolTip": "Bank_Project\\Login\\frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:30:10.973Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-02T11:30:10.973Z"
             },
             {
               "$type": "Document",
@@ -384,19 +378,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frmAddNewClients.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Clients\\frmAddNewClients.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Clients\\frmAddNewClients.cs [Design]",
               "RelativeToolTip": "Bank_Project\\Clients\\frmAddNewClients.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T22:44:31.151Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-16T22:44:31.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "clsClients.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Business\\clsClients.cs",
               "RelativeDocumentMoniker": "Bank_Business\\clsClients.cs",
@@ -404,12 +397,11 @@
               "RelativeToolTip": "Bank_Business\\clsClients.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAUwE4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T23:21:41.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T23:21:41.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "clsClientsData.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs",
               "RelativeDocumentMoniker": "Bank_DataAccess\\clsClientsData.cs",
@@ -417,12 +409,11 @@
               "RelativeToolTip": "Bank_DataAccess\\clsClientsData.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAYwGQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T23:22:55.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T23:22:55.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Program.cs",
               "RelativeDocumentMoniker": "Bank_Project\\Program.cs",
@@ -430,12 +421,11 @@
               "RelativeToolTip": "Bank_Project\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAtwBMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T00:08:08.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T00:08:08.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "clsUsersData.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs",
               "RelativeDocumentMoniker": "Bank_DataAccess\\clsUsersData.cs",
@@ -443,8 +433,7 @@
               "RelativeToolTip": "Bank_DataAccess\\clsUsersData.cs",
               "ViewState": "AgIAAA4BAAAAAAAAAAAqwEwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T23:29:19.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T23:29:19.04Z"
             },
             {
               "$type": "Document",

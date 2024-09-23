@@ -16,33 +16,8 @@ namespace Bank_Project
 
         public clsClients _Client;
 
-        public class PreventAccountBalanceEventArgs:EventArgs
-        {
-
-public decimal AccountBalance { get; }
 
 
-public PreventAccountBalanceEventArgs(decimal AccountBalance)
-            {
-
-                this.AccountBalance= AccountBalance;
-            }
-
-        }
-        public event EventHandler<PreventAccountBalanceEventArgs> _OnAccountBalanceComplete;
-
-
-        public void RaiseOnAccountBalanceComplete(decimal AccountBalance)
-        {
-            RaiseOnAccountBalanceComplete(new PreventAccountBalanceEventArgs(AccountBalance));
-        }
-
-
-
-        protected virtual void RaiseOnAccountBalanceComplete(PreventAccountBalanceEventArgs e)
-        {
-            _OnAccountBalanceComplete?.Invoke(this, e);
-        }
 
 
 
@@ -51,10 +26,7 @@ public PreventAccountBalanceEventArgs(decimal AccountBalance)
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
+     
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
@@ -95,24 +67,12 @@ public PreventAccountBalanceEventArgs(decimal AccountBalance)
 
                 _Client.AccountBalance += Amount;
 
-
-
-
-
-                
-
-
-
-
                 if(_Client.Save())
                 {
-                    MessageBox.Show(" new AccountBalance :" + _Client.AccountBalance);
+                    MessageBox.Show(" New AccountBalance Added Sucessfully :-) :" + _Client.AccountBalance,"Success"
+                        ,MessageBoxButtons.OK,MessageBoxIcon.Information);
                 }
-               else
-                {
-
-                }
-
+             
             }
             else
             {
