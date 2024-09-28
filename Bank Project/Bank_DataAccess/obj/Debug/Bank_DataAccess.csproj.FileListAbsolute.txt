@@ -46,3 +46,5 @@ C:\Users\user\Desktop\Bank Project\Bank Project\Bank_DataAccess\obj\Debug\Bank_D
 C:\Users\user\Desktop\Bank Project\Bank Project\Bank_DataAccess\obj\Debug\Bank_Dat.9CFCD676.Up2Date
 C:\Users\user\Desktop\Bank Project\Bank Project\Bank_DataAccess\obj\Debug\Bank_DataAccess.dll
 C:\Users\user\Desktop\Bank Project\Bank Project\Bank_DataAccess\obj\Debug\Bank_DataAccess.pdb
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_DataAccess\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Bank Project\Bank Project\Bank_DataAccess\bin\Debug\System.Configuration.ConfigurationManager.xml
