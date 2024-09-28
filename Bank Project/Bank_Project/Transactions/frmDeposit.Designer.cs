@@ -62,7 +62,7 @@
             this.label1.Size = new System.Drawing.Size(138, 22);
             this.label1.TabIndex = 2;
             this.label1.Text = "AccountNumber";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+//            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // btnDeposit
             // 

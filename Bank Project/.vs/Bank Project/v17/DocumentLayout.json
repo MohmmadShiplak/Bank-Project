@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsUsersData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|c:\\users\\user\\desktop\\bank project\\bank project\\bank_dataaccess\\clsclientsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:bank_dataaccess\\clsclientsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_dataaccess\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:bank_dataaccess\\clsusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsCurrencyData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsCurrencyData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B53B634-FF4A-43B0-A3C9-9427BD833B12}|Bank_DataAccess\\Bank_DataAccess.csproj|solutionrelative:Bank_DataAccess\\clsClientsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\transactions\\frmwithdrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,11 +23,11 @@
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\transactions\\frmwithdrew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|c:\\users\\user\\desktop\\bank project\\bank project\\bank_project\\transactions\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\transactions\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\transactions\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|c:\\users\\user\\desktop\\bank project\\bank project\\bank_project\\transactions\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\transactions\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\transactions\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,7 +47,7 @@
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\transactions\\frmdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|c:\\users\\user\\desktop\\bank project\\bank project\\bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6961D61-9BA1-47B9-9EFD-DFBB51250831}|Bank_Project\\Bank_Project.csproj|solutionrelative:bank_project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -247,11 +247,19 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -263,12 +271,11 @@
               "RelativeToolTip": "Bank_Project\\Transactions\\frmTransfer.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:53:49.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T23:53:49.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "clsClientsData.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsClientsData.cs",
               "RelativeDocumentMoniker": "Bank_DataAccess\\clsClientsData.cs",
@@ -281,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "clsCurrencyData.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsCurrencyData.cs",
               "RelativeDocumentMoniker": "Bank_DataAccess\\clsCurrencyData.cs",
@@ -289,21 +296,19 @@
               "RelativeToolTip": "Bank_DataAccess\\clsCurrencyData.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwPcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T23:26:18.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T23:26:18.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "clsUsersData.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs",
               "RelativeDocumentMoniker": "Bank_DataAccess\\clsUsersData.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_DataAccess\\clsUsersData.cs",
               "RelativeToolTip": "Bank_DataAccess\\clsUsersData.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAYwEwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwEwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T23:29:19.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-30T23:29:19.04Z"
             },
             {
               "$type": "Document",
@@ -314,8 +319,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmTransfer.cs [Design]",
               "RelativeToolTip": "Bank_Project\\Transactions\\frmTransfer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:53:47.946Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-18T23:53:47.946Z"
             },
             {
               "$type": "Document",
@@ -326,8 +330,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmDeposit.cs [Design]",
               "RelativeToolTip": "Bank_Project\\Transactions\\frmDeposit.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T00:16:50.013Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T00:16:50.013Z"
             },
             {
               "$type": "Document",
@@ -339,8 +342,7 @@
               "RelativeToolTip": "Bank_Project\\Transactions\\frmDeposit.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAYwFIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T00:18:47.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T00:18:47.834Z"
             },
             {
               "$type": "Document",
@@ -351,8 +353,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmWithdrew.cs [Design]",
               "RelativeToolTip": "Bank_Project\\Transactions\\frmWithdrew.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T00:37:18.905Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-07T00:37:18.905Z"
             },
             {
               "$type": "Document",
@@ -364,8 +365,7 @@
               "RelativeToolTip": "Bank_Project\\Transactions\\frmWithdrew.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T00:40:11.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T00:40:11.767Z"
             },
             {
               "$type": "Document",
@@ -376,8 +376,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\frmMain.cs [Design]",
               "RelativeToolTip": "Bank_Project\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:50:38.257Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-16T00:50:38.257Z"
             },
             {
               "$type": "Document",
@@ -434,8 +433,7 @@
               "ToolTip": "C:\\Users\\user\\Desktop\\Bank Project\\Bank Project\\Bank_Project\\Transactions\\frmTransactions.cs [Design]",
               "RelativeToolTip": "Bank_Project\\Transactions\\frmTransactions.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:38:17.129Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-16T00:38:17.129Z"
             },
             {
               "$type": "Document",
@@ -447,8 +445,7 @@
               "RelativeToolTip": "Bank_Project\\Transactions\\frmTransactions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T00:46:06.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T00:46:06.575Z"
             },
             {
               "$type": "Document",

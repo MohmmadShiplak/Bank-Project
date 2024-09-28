@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -22,30 +23,22 @@ namespace Bank_Project
         {
 
 
-            clsUsers User = clsUsers.Find(txtUserName.Text, txtPassword.Text);
-
-         //  txtPassword.Text = clsGlobal.DbConfig.encodePassword(txtPassword.Text);
-
-         ////   User.Password = clsGlobal.DbConfig.encodePassword(txtPassword.Text) + txtPassword.Text;
+            string HashedString = clsGlobal.ComputeHash(txtPassword.Text);
 
 
+        
+            clsUsers User = clsUsers.Find(txtUserName.Text,HashedString);
+
+   
             if(User!=null)
             {
 
-                MessageBox.Show("Login Sucessfully ", "Sucess"
+                MessageBox.Show("Login Successfully ", "Success"
                    , MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-
 
                 this.Hide();
                 frmMain frm1 = new frmMain();
                 frm1.ShowDialog();
-
-
-
-
-
-
             }
             else
             {
@@ -53,11 +46,6 @@ namespace Bank_Project
                     , MessageBoxButtons.OK, MessageBoxIcon.Error);
 
             }
-
-
-         
-
-
         }
 
         private void llForgotPassword_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
